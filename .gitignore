@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 초안과 사진은 저장소에 넣지 않는다 — 행사 참가자와 아이들 사진이다
+drafts/
+photos/
+photos_grouped/
